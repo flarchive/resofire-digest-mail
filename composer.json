@@ -1,0 +1,26 @@
+{
+    "name": "resofire/digest-mail",
+    "description": "Sends a periodic digest email to forum members summarising new discussions, active discussions, unread discussions, and new members.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "flarum/core": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Resofire\\DigestMail\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "id": "resofire-digest-mail",
+            "title": "Digest Email",
+            "icon": {
+                "name": "fas fa-newspaper",
+                "backgroundColor": "#4f46e5",
+                "color": "#ffffff"
+            }
+        }
+    }
+}
