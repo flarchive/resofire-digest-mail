@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of resofire/digest-mail.** Not for installation: use [Packagist](https://packagist.org/packages/resofire/digest-mail) or the [upstream repository](https://github.com/ResofireV2/digest-mail).
 
-**0** versions archived · Latest: [`v2.2.9`](https://github.com/flarchive/resofire-digest-mail/tree/archive/v2.2.9) · License: `MIT` · Flarum: `^2.0`
+**57** versions archived · Latest: [`v2.2.9`](https://github.com/flarchive/resofire-digest-mail/tree/archive/v2.2.9) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.1) |
+| `v0.1.2` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.2) |
+| `v0.1.3` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.3) |
+| `v0.1.4` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.4) |
+| `v0.1.5` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.5) |
+| `v0.1.6` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.6) |
+| `v0.1.7` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.7) |
+| `v0.1.8` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.8) |
+| `v0.1.9` | 2026-03-14 | `^1.8` | [Browse](https://github.com/flarchive/resofire-digest-mail/tree/archive/v0.1.9) |
+
+[View all 57 versions](https://github.com/flarchive/resofire-digest-mail/tags)
 
 Catalog entry: [packages/resofire-digest-mail.json](https://github.com/flarchive/archive-index/blob/main/packages/resofire-digest-mail.json)
 
